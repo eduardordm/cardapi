@@ -4,7 +4,11 @@ Card API - Rubyconf Brasil 2014
 
 Este projeto é a base de minha palestra (Eduardo Mourão) na Rubyconf Brasil 2014.
 
-O video da palestra e os slides serão vinculados aqui quando estiverem prontos/disponíveis.
+Slides:
+
+https://speakerdeck.com/eduardordm/como-montar-sua-propria-empresa-de-cartoes-de-credito
+
+https://github.com/eduardordm/cardapi/blob/master/rubyconf2014_public.pdf
 
 
 ## O que é
